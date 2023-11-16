@@ -1,0 +1,97 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 16px;
+  }
+
+  a {
+    text-decoration: none;
+    color: #f9faf8;
+  }
+
+  .header {
+    background-color: #1f2937;
+  }
+
+  #title {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: 800;
+  }
+  
+  #titl {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight:bolder;
+  }
+
+  #tex {
+    color:#e5e7eb;
+    font-size: 18px;
+  }
+
+  button {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    font-size: 24px;
+  }
+
+  .con {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 18px;
+    margin-bottom: 48px;
+  }
+
+  .conn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+  }
+
+  .connn {
+    display: flex;
+    flex-direction: column;
+    padding: 48px;
+  }
+
+  #tit {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    text-align: center;
+  }
+
+  .noc {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 48px;
+  }
+
+  .nic {
+    background-color:#e5e7eb;
+  }
+
+  #quote {
+    font-size: 36px;
+    font-style: light italic;
+    color:#1f2937;
+    padding: 80px;
+    padding-bottom: 0%;
+    text-align: center;
+  }
+
+  #by {
+    font-weight: bolder;
+    color: #1f2937;
+    text-align: end;
+  }
+
+  #hell {
+    background-color: #3882f6;
+  }
